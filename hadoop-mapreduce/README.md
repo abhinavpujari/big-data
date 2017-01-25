@@ -1,0 +1,1 @@
+Hadoop & Map Reduce knowledge-store & application sandbox
